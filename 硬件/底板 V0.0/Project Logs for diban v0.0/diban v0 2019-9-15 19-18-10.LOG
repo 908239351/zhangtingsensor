@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=U1_RX Pin=P6-3
+Removed Pin From Net: NetName=CO2_PWM Pin=P6-4
+Added Pin To Net: NetName=CO2_PWM Pin=P6-3
+Added Pin To Net: NetName=U1_RX Pin=P6-4
+Added Room: Name=diban v0.0

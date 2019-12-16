@@ -1,0 +1,7 @@
+"main.obj",
+"mmc_sd.obj",
+"lcd.obj",
+"tp.obj",
+".\USBX_F34X.LIB" 
+TO "SJ-QV24-1024-A0_GC9306_CTC24_ÂýA" 
+RAMSIZE(256) 

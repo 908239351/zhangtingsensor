@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetB1_1 Pin=R40-1
+Removed Pin From Net: NetName=BAT Pin=R40-2
+Removed Pin From Net: NetName=NetC1_2 Pin=R50-1
+Removed Pin From Net: NetName=USBPOWER Pin=R50-2
+Removed Pin From Net: NetName=USBPOWER Pin=R60-1
+Removed Pin From Net: NetName=GND Pin=R60-2
+Added Component: Designator=R40(0603_R)
+Added Component: Designator=R50(0603_R)
+Added Component: Designator=R60(0603_R)
+Added Pin To Net: NetName=NetB1_1 Pin=R40-1
+Added Pin To Net: NetName=BAT Pin=R40-2
+Added Pin To Net: NetName=NetC1_2 Pin=R50-1
+Added Pin To Net: NetName=USBPOWER Pin=R50-2
+Added Pin To Net: NetName=USBPOWER Pin=R60-1
+Added Pin To Net: NetName=GND Pin=R60-2
+Added Room: Name=zhangting v0.0

@@ -1,0 +1,25 @@
+Added Component: Designator=TF1(TF_CARD)
+Added Component: Designator=U4(SOP-8)
+Added Pin To Net: NetName=SD_D2 Pin=TF1-1
+Added Pin To Net: NetName=SD_D3 Pin=TF1-2
+Added Pin To Net: NetName=SD_CMD Pin=TF1-3
+Added Pin To Net: NetName=VCC3.3 Pin=TF1-4
+Added Pin To Net: NetName=SD_CLK Pin=TF1-5
+Added Pin To Net: NetName=GND Pin=TF1-6
+Added Pin To Net: NetName=SD_D0 Pin=TF1-7
+Added Pin To Net: NetName=SD_D1 Pin=TF1-8
+Added Pin To Net: NetName=GND Pin=TF1-10
+Added Pin To Net: NetName=GND Pin=TF1-11
+Added Pin To Net: NetName=GND Pin=TF1-12
+Added Pin To Net: NetName=GND Pin=TF1-13
+Added Pin To Net: NetName=GND Pin=U4-1
+Added Pin To Net: NetName=OUT3 Pin=U4-2
+Added Pin To Net: NetName=OUT2 Pin=U4-3
+Added Pin To Net: NetName=OUT1 Pin=U4-4
+Added Pin To Net: NetName=NetC12_2 Pin=U4-5
+Added Pin To Net: NetName=NetC13_2 Pin=U4-6
+Added Pin To Net: NetName=NetC14_2 Pin=U4-7
+Added Pin To Net: NetName=VCC3.3 Pin=U4-8
+Added Member To Class: ClassName=zhangting v0.0 Member=Component TF1 TF_CARD
+Added Member To Class: ClassName=zhangting v0.0 Member=Component U4 CT8224-3
+Added Room: Name=zhangting v0.0

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=U1_RX Pin=P2-3
+Removed Pin From Net: NetName=CO2_PWM Pin=P2-4
+Added Pin To Net: NetName=CO2_PWM Pin=P2-3
+Added Pin To Net: NetName=U1_RX Pin=P2-4
+Added Room: Name=zhangting v0.0

@@ -1,0 +1,7 @@
+"main.obj",
+"mmc_sd.obj",
+"lcd.obj",
+"tp.obj",
+".\USBX_F34X.LIB" 
+TO "2221_CTC28_GC9306_8²¢_ÖÐA" 
+RAMSIZE(256) 

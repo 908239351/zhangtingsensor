@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=LCD_RESET Pin=U8-3
+Removed Pin From Net: NetName=LCD_RS Pin=U8-4
+Removed Pin From Net: NetName=LCD_WR Pin=U8-5
+Removed Pin From Net: NetName=LCD_RD Pin=U8-6
+Removed Pin From Net: NetName=LCD_CS Pin=U8-33
+Removed Pin From Net: NetName=LCD_TE Pin=U8-34
+Added Pin To Net: NetName=LCD_RD Pin=U8-3
+Added Pin To Net: NetName=LCD_WR Pin=U8-4
+Added Pin To Net: NetName=LCD_RS Pin=U8-5
+Added Pin To Net: NetName=LCD_RESET Pin=U8-6
+Added Pin To Net: NetName=LCD_CS Pin=U8-15
+Added Pin To Net: NetName=LCD_TE Pin=U8-33
+Added Pin To Net: NetName=KEY1 Pin=U8-34
+Added Room: Name=zhangting v0.0

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=KEY1 Pin=B1-2
+Added Pin To Net: NetName=KEY1 Pin=B1-1
+Added Pin To Net: NetName=NetB1_2 Pin=B1-2
+Added Pin To Net: NetName=NetB1_2 Pin=R4-1
+Added Net: Name=NetB1_2
+Added Room: Name=zhangting v0.0

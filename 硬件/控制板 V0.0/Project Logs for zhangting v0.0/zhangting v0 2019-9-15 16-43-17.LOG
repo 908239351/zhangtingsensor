@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=LCD_TE Pin=U8-33
+Removed Pin From Net: NetName=KEY1 Pin=U8-34
+Added Pin To Net: NetName=KEY1 Pin=U8-33
+Added Pin To Net: NetName=LCD_TE Pin=U8-34
+Added Room: Name=zhangting v0.0

@@ -1,0 +1,8 @@
+Added Component: Designator=U?(PM2.5)
+Added Pin To Net: NetName=VCC5.0 Pin=U?-1
+Added Pin To Net: NetName=VCC5.0 Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Pin To Net: NetName=U1_RX Pin=U?-9
+Added Member To Class: ClassName=zhangting v0.0 Member=Component U? PM2.5
+Added Room: Name=zhangting v0.0

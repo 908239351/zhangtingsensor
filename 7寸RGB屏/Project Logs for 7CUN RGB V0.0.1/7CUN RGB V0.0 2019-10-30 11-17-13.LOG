@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=CT_INT Pin=Rp8-1
+Removed Pin From Net: NetName=CT_SDA Pin=Rp8-2
+Removed Pin From Net: NetName=CT_SCL Pin=Rp8-3
+Removed Pin From Net: NetName=CT_RST Pin=Rp8-4
+Removed Pin From Net: NetName=TP_RST Pin=Rp8-5
+Removed Pin From Net: NetName=TP_SCL Pin=Rp8-6
+Removed Pin From Net: NetName=TP_SDA Pin=Rp8-7
+Removed Pin From Net: NetName=TP_INT Pin=Rp8-8
+Added Pin To Net: NetName=TP_INT Pin=Rp8-1
+Added Pin To Net: NetName=TP_SCL Pin=Rp8-2
+Added Pin To Net: NetName=TP_SDA Pin=Rp8-3
+Added Pin To Net: NetName=TP_RST Pin=Rp8-4
+Added Pin To Net: NetName=CT_RST Pin=Rp8-5
+Added Pin To Net: NetName=CT_SDA Pin=Rp8-6
+Added Pin To Net: NetName=CT_SCL Pin=Rp8-7
+Added Pin To Net: NetName=CT_INT Pin=Rp8-8
+Added Room: Name=7CUN RGB V0.0.1

@@ -1,0 +1,1 @@
+"lcd\lcd.c" BROWSE DEBUG OBJECTEXTEND PRINT(.\lcd.lst) OBJECT(lcd.obj)

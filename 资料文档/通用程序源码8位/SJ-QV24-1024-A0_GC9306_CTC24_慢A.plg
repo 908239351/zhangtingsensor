@@ -1,0 +1,63 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+F:\新建文件夹 (2)\SJ-QV24-1024-A0_GC9306_CTC24_L8\main.uvproj
+Project File Date:  05/10/2019
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling main.c...
+compiling mmc_sd.c...
+compiling lcd.c...
+compiling tp.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_STOPDELAY?MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?TP_DRAWLINE?TP
+*** WARNING L1: UNRESOLVED EXTERNAL SYMBOL
+    SYMBOL:  CTC24_GC9306_P4
+    MODULE:  lcd.obj (LCD)
+*** WARNING L1: UNRESOLVED EXTERNAL SYMBOL
+    SYMBOL:  CTC24_GC9306_S3
+    MODULE:  lcd.obj (LCD)
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  CTC24_GC9306_P4
+    MODULE:  lcd.obj (LCD)
+    ADDRESS: 2DFBH
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  CTC24_GC9306_S3
+    MODULE:  lcd.obj (LCD)
+    ADDRESS: 2DFEH
+Program Size: data=85.0 xdata=1152 code=14971
+creating hex file from "2211_BOE28_GC9306_并口_快A"...
+"2211_BOE28_GC9306_并口_快A" - 0 Error(s), 6 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+compiling mmc_sd.c...
+compiling lcd.c...
+compiling tp.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_STOPDELAY?MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?TP_DRAWLINE?TP
+*** WARNING L1: UNRESOLVED EXTERNAL SYMBOL
+    SYMBOL:  CTC24_GC9306_P4
+    MODULE:  lcd.obj (LCD)
+*** WARNING L1: UNRESOLVED EXTERNAL SYMBOL
+    SYMBOL:  CTC24_GC9306_S3
+    MODULE:  lcd.obj (LCD)
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  CTC24_GC9306_P4
+    MODULE:  lcd.obj (LCD)
+    ADDRESS: 2DFBH
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  CTC24_GC9306_S3
+    MODULE:  lcd.obj (LCD)
+    ADDRESS: 2DFEH
+Program Size: data=85.0 xdata=1152 code=14971
+creating hex file from "2211_BOE28_GC9306_并口_快A"...
+"2211_BOE28_GC9306_并口_快A" - 0 Error(s), 6 Warning(s).

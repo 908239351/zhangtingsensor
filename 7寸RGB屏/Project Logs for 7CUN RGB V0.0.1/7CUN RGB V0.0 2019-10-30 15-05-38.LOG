@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=AVDD Pin=J1-43
+Added Pin To Net: NetName=AVDD Pin=R8-2
+Change Net Name : Old Net Name=AVDD New Net Name=VCC10.4
+Added Room: Name=7CUN RGB V0.0.1

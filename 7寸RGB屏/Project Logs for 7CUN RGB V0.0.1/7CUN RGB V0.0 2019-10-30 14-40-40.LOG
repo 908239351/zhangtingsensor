@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetR26_1 Pin=R28-1
+Removed Pin From Net: NetName=GND Pin=R29-2
+Removed Member From Class: ClassName=7CUN RGB V0.0.1 Member=R28
+Removed Member From Class: ClassName=7CUN RGB V0.0.1 Member=R29
+Change Component DesignItemId : Designator=R27 Old DesignItemId=0603 4.7K次 (4701) 1% New DesignItemId=0603 8.2K次 (8201) 1%
+Change Component DesignItemId : Designator=R26 Old DesignItemId=0603 100K次 (1003) 1% New DesignItemId=0603 130K次 (1303) 1%
+Change Component Comment : Designator=R27 Old Comment=4.7K次 (4701) ㊣1% New Comment=8.2K次 (8201) ㊣1%
+Change Component Comment : Designator=R26 Old Comment=100K次 (1003) ㊣1% New Comment=130K次 (1303) ㊣1%
+Added Pin To Net: NetName=GND Pin=R27-1
+Added Pin To Net: NetName=NetR26_1 Pin=U2-3
+Added Room: Name=7CUN RGB V0.0.1

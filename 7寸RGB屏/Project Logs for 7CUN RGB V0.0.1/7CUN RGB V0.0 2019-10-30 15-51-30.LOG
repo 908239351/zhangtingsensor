@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Pin From Net: NetName=GND Pin=C9-2
+Removed Pin From Net: NetName=CT_INT Pin=J3-1
+Removed Pin From Net: NetName=CT_SDA Pin=J3-2
+Removed Pin From Net: NetName=CT_SCL Pin=J3-3
+Removed Pin From Net: NetName=CT_RST Pin=J3-4
+Removed Pin From Net: NetName=GND Pin=J3-5
+Removed Pin From Net: NetName=VCC3.3 Pin=R20-1
+Removed Member From Class: ClassName=7CUN RGB V0.0.1 Member=J3
+Added Component: Designator=P3(Touch_6P)
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=P3-0
+Added Pin To Net: NetName=GND Pin=P3-0
+Added Pin To Net: NetName=CT_RST Pin=P3-1
+Added Pin To Net: NetName=GND Pin=P3-3
+Added Pin To Net: NetName=CT_INT Pin=P3-4
+Added Pin To Net: NetName=CT_SDA Pin=P3-5
+Added Pin To Net: NetName=CT_SCL Pin=P3-6
+Added Pin To Net: NetName=VCC3.3 Pin=R20-2
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=C9-2
+Added Pin To Net: NetName=NetC8_2 Pin=P3-2
+Added Pin To Net: NetName=NetC8_2 Pin=R20-1
+Added Net: Name=NetC8_2
+Added Member To Class: ClassName=7CUN RGB V0.0.1 Member=Component P3 Touch_6P
+Added Room: Name=7CUN RGB V0.0.1

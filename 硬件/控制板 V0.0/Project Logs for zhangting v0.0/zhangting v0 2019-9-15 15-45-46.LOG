@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=LCD_RESET Pin=U8-2
+Removed Pin From Net: NetName=LCD_RS Pin=U8-3
+Removed Pin From Net: NetName=LCD_WR Pin=U8-4
+Removed Pin From Net: NetName=LCD_RD Pin=U8-5
+Removed Pin From Net: NetName=LCD_PWM Pin=U8-6
+Removed Pin From Net: NetName=CO2_PWM Pin=U8-14
+Removed Pin From Net: NetName=KEY1 Pin=U8-35
+Removed Pin From Net: NetName=VCC_EN Pin=U8-36
+Removed Pin From Net: NetName=USBPOWER Pin=U8-41
+Removed Pin From Net: NetName=SCL Pin=U8-61
+Removed Pin From Net: NetName=SDA Pin=U8-62
+Added Pin To Net: NetName=VCC_EN Pin=U8-2
+Added Pin To Net: NetName=LCD_RESET Pin=U8-3
+Added Pin To Net: NetName=LCD_RS Pin=U8-4
+Added Pin To Net: NetName=LCD_WR Pin=U8-5
+Added Pin To Net: NetName=LCD_RD Pin=U8-6
+Added Pin To Net: NetName=LCD_PWM Pin=U8-14
+Added Pin To Net: NetName=SDA Pin=U8-35
+Added Pin To Net: NetName=SCL Pin=U8-36
+Added Pin To Net: NetName=CO2_PWM Pin=U8-41
+Added Pin To Net: NetName=USBPOWER Pin=U8-62
+Added Room: Name=zhangting v0.0

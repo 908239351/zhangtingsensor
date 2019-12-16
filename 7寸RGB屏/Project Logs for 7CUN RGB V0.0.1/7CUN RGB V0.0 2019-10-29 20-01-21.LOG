@@ -1,0 +1,19 @@
+Change Component Designator: OldDesignator=D3 NewDesignator=D7
+Added Component: Designator=D3(DIODE_ZMMx)
+Added Component: Designator=D4(SOT-23)
+Added Component: Designator=D5(SOT-23)
+Added Component: Designator=D6(DIODE_ZMMx)
+Added Pin To Net: NetName=VCC-7 Pin=D3-1
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=NetC10_2 Pin=D4-1
+Added Pin To Net: NetName=GND Pin=D4-2
+Added Pin To Net: NetName=NetC13_2 Pin=D4-3
+Added Pin To Net: NetName=AVDD Pin=D5-1
+Added Pin To Net: NetName=NetC16_2 Pin=D5-2
+Added Pin To Net: NetName=NetC23_2 Pin=D5-3
+Added Pin To Net: NetName=GND Pin=D6-1
+Added Pin To Net: NetName=VCC16 Pin=D6-2
+Added Member To Class: ClassName=7CUN RGB V0.0.1 Member=Component D4 BAT54S
+Added Member To Class: ClassName=7CUN RGB V0.0.1 Member=Component D5 BAT54S
+Added Member To Class: ClassName=7CUN RGB V0.0.1 Member=Component D6 LBZT52C16T1G
+Added Member To Class: ClassName=7CUN RGB V0.0.1 Member=Component D7 SS54
